@@ -1,4 +1,4 @@
-FROM oscarsystem/oscardocker:lastest
+FROM oscarsystem/oscardocker:latest
 
 COPY . /home/oscar
 
